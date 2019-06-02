@@ -2,7 +2,7 @@
 
 ## What is Deep Vision?
 
-Deep Vision was created to address the democratized use of AI. A lot of services are trying to address that but we consider that they are only scraping the surface of that idea. For AI to democratize everyone need to have access to their use. That means that they do not need to have the technical knowledge nor the money to hire expensive consulting companies.
+Deep Vision was created to address the democratized use of AI. A lot of services are trying to address that but we consider that they are only scraping the surface of that idea. For AI to be democratized, everyone should be able to use it regardless of their background and income level. That means that they do not need to have the technical knowledge nor the money to hire expensive consulting companies.
 
 Deep Vision is a suite of deep learning products that enable companies and individuals with limited machine learning expertise to train high-quality models specific to their business needs. We aim to bring AI to unattended sectors around the world.
 
