@@ -77,6 +77,6 @@ This project is still under development. If you are seriously interested in cont
 
 ## Authors
 
-This project idea was from [Miguel](https://github.com/r0mer0m) and has been develop through a team effort of:
+This project has been develop through a team effort of:
 
 [Miguel Romero](https://github.com/r0mer0m), [Robert Sandor](https://github.com/robertisandor), [Hai Vu Le](https://github.com/HaiVuLe), [Liying Li](https://github.com/liyinging), [Meng-Ting Chang](https://github.com/JoyceMTChang), [Zhi Li](https://github.com/zhlli1) and [Wendy Xiao](https://github.com/Wendy0797).
